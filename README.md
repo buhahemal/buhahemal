@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/buhahemal" target="blank"><img src="https://img.shields.io/twitter/follow/buhahemal?logo=twitter&style=for-the-badge" alt="buhahemal" /></a> </p>
 
-- 🔭 I’m currently working at [Rovae](https://rovae.in/)
+- 🔭 I’m currently working at [Edmingle](https://www.edmingle.com/)
 
 - 📝 I regularly write articles on [https://hemalbuha10.medium.com/](https://hemalbuha10.medium.com/)
 
