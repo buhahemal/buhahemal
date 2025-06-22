@@ -1,40 +1,118 @@
-<h1 align="center">Hi 👋, I'm Hemal Buha</h1>
-<h3 align="center">A passionate Backend Engineer from India</h3>
+# Hemal Buha
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=buhahemal&label=Profile%20views&color=0e75b6&style=flat" alt="buhahemal" /> </p>
+**Senior Software Engineer - Backend & DevOps** | [LinkedIn](https://www.linkedin.com/in/hemalbuha/) | [GitHub](https://github.com/buhahemal)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=buhahemal" alt="buhahemal" /></a> </p>
+Results-driven Senior Software Engineer with 4+ years of experience in backend development, cloud infrastructure, and DevOps practices. Proven expertise in building scalable systems supporting 10K+ concurrent users, reducing infrastructure costs by 60%, and achieving 99.99% uptime.
 
-<p align="left"> <a href="https://twitter.com/buhahemal" target="blank"><img src="https://img.shields.io/twitter/follow/buhahemal?logo=twitter&style=for-the-badge" alt="buhahemal" /></a> </p>
+## 🚀 Professional Experience
 
-- 🔭 I’m currently working at [Edmingle](https://www.edmingle.com/)
+### Senior Software Engineer - Backend @ Edmingle
+*July 2021 - Present*
 
-- 📝 I regularly write articles on [https://hemalbuha10.medium.com/](https://hemalbuha10.medium.com/)
+**Key Achievements:**
+- **Built high-availability architecture** supporting 10K+ concurrent users with <200ms latency and 99.99% uptime
+- **Reduced infrastructure costs by 60%** by migrating email delivery from Mailgun to Amazon SES
+- **Led compliance initiatives** obtaining critical certifications (VAPT, GDPR, ISO 27001)
+- **Integrated multi-gateway payment system** (Razorpay, Stripe, PayU, Instamojo) with 0-downtime architecture
+- **Developed real-time analytics system** using WebSockets to track DAU, WAU, MAU metrics
+- **Created automated CI/CD pipelines** enabling zero-touch deployments across environments
+- **Optimized Redis performance** resulting in 2x cost savings and improved system stability
+- **Built Hulk RenderEngine** achieving 20% improvement in website performance
 
-- 💬 Ask me about **Laravel, Django, AWS, Javascript**
+**Tech Stack:** Node.js, AWS (EC2, Lambda, RDS, ElastiCache, S3, CloudFront, CloudWatch, IAM, SQS), MySQL, MariaDB, Redis, Jenkins, WebSocket, Payment Gateways
 
-- 📫 How to reach me **buhahemal10@gmail.com**
+### Software Developer @ Rovae Inc.
+*July 2020 - July 2021*
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/buhahemal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="buhahemal" height="30" width="40" /></a>
-<a href="https://twitter.com/buhahemal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="buhahemal" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/hemalbuha/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/hemalbuha/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/10046572" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="10046572" height="30" width="40" /></a>
-<a href="https://fb.com/buhahemal.10" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="buhahemal.10" height="30" width="40" /></a>
-<a href="https://instagram.com/hemalbuha_10" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="hemalbuha_10" height="30" width="40" /></a>
-<a href="https://medium.com/@hemalbuha10" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@hemalbuha10" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/hemalbuha" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="hemalbuha" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/hemal_buha" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="hemal_buha" height="30" width="40" /></a>
-</p>
+**Key Achievements:**
+- Engineered high-performance web application exceeding efficiency benchmarks by **80%**
+- Designed comprehensive inventory management solution with responsive POS system
+- Successfully integrated multiple third-party APIs for seamless interoperability
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/hemalbuha"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="hemalbuha" /></a></p><br><br><br>
+**Tech Stack:** PHP, Laravel, JavaScript, MySQL, REST API
 
+## 🛠️ Technical Skills
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=buhahemal&show_icons=true&locale=en&layout=compact" alt="buhahemal" /></p>
+### DevOps & Cloud
+- **AWS Services:** EC2, Lambda, SES, RDS, ElastiCache, S3, CloudFront, CloudWatch, IAM, SQS
+- **CI/CD:** Jenkins, GitHub Actions, Automated Pipelines
+- **Infrastructure:** Infrastructure as Code, EC2 Auto Scaling, Load Balancing, WAF
+- **Deployments:** Zero Downtime Deployments, Webhook Systems with Retry Logic & Failover
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=buhahemal&show_icons=true&locale=en" alt="buhahemal" /></p>
+### Backend Development
+- **Languages:** Node.js, Express.js, PHP, Python, Bash
+- **APIs:** REST APIs, WebSocket, Socket.io
+- **Queues:** Asynchronous Queues (RabbitMQ, custom queue logic)
+- **Payments:** Multi-gateway Integration (Razorpay, Stripe, PayU, Instamojo)
+- **Features:** Internationalization, Multi-Currency Systems, SDK Development
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=buhahemal&" alt="buhahemal" /></p>
+### Databases & Caching
+- **Databases:** MySQL, MariaDB, MongoDB
+- **Caching:** Redis, Query Optimization, Indexing
+- **Operations:** Data Migration, Infrastructure Upgrades, Audit Logging
 
+### Security & Compliance
+- **Standards:** GDPR, ISO 27001, VAPT Readiness
+- **Authentication:** OAuth, SSO (Single Sign-On)
+- **Email Security:** DKIM, SPF, Email Validation & Deliverability
+- **Webhooks:** Secure Webhook Signing & Event Deduplication
+
+### Monitoring & Analytics
+- **Real-time Analytics:** DAU, MAU, WAU Dashboards
+- **Cloud Monitoring:** CloudWatch Metrics & Alerts
+- **Tracking:** Usage Tracking via WebSockets, Custom Dashboard Development
+
+### Tools & Technologies
+- **Version Control:** Git, GitHub
+- **Development:** Docker, Postman, Swagger
+- **Automation:** Cron Jobs, Shell Scripting, API Response Automation
+
+## 📊 Key Projects
+
+### Cloud Cost Optimization Dashboard
+Built custom AWS cost optimization dashboard using CloudWatch, Lambda, and Cost Explorer APIs to visualize and track cloud spend across services, helping teams identify waste and reduce monthly expenses.
+
+**Technologies:** AWS CloudWatch, Lambda, Cost Explorer APIs, Node.js
+
+### Automated Email Validation Tool
+Developed application to automatically validate email addresses using third-party online tools without requiring paid subscription, leveraging request automation and intelligent response parsing for high accuracy.
+
+**Technologies:** Node.js, Web Scraping, API Integration, Request Automation
+
+### WebSocket-Based Chat Application
+Implemented real-time chat functionality using WebSocket integration with Socket.io, enabling seamless bi-directional messaging in a lightweight and scalable application environment.
+
+**Technologies:** Node.js, Socket.io, WebSocket, Real-time Communication
+
+## 🎓 Education
+
+**Master of Computer Application, Cloud Technology**  
+Ajeenkya D. Y. Patil University, Pune, India | 2019 - 2022  
+- **CGPA: 9.8** | **Gold Medalist** – Top rank in graduating batch
+
+## 🏆 Certifications
+
+- **Oracle Cloud Data Management 2023 Foundations Associate** (Sep 2023 - Sep 2025)
+- **Oracle Cloud Infrastructure 2023 Certified Foundations Associate** (Sep 2023 - Sep 2025)
+- **Oracle Cloud Infrastructure Foundations 2021 Associate** (Jan 2022)
+
+## 📈 Key Achievements
+
+- **99.99% Uptime** achievement for high-traffic educational platform
+- **60% Infrastructure Cost Reduction** through strategic cloud migration
+- **2x Performance Improvement** through Redis optimization and connection management
+- **25% System Adoption Increase** through LMS enhancements
+- **5× Website Quality Improvement** through modular website builder
+- **20% Performance Boost** through Hulk RenderEngine implementation
+
+## 📞 Contact
+
+- **Email:** buhahemal10@gmail.com
+- **Phone:** +91 7359943259
+- **LinkedIn:** [www.linkedin.com/in/hemalbuha/](https://www.linkedin.com/in/hemalbuha/)
+- **GitHub:** [github.com/buhahemal](https://github.com/buhahemal)
+- **Location:** Pune, India
+
+---
+
+*Passionate about building scalable, high-performance systems and optimizing infrastructure for maximum efficiency and cost-effectiveness.*
