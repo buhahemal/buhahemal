@@ -69,10 +69,17 @@ Results-driven Senior Software Engineer with 4+ years of experience in backend d
 
 ## 📊 Key Projects
 
+### AI-Powered FAQ Assistant
+Designed and built a production-ready, AI-powered FAQ bot using semantic search and local transformer models to provide intelligent, offline-capable support. The system leverages vector embeddings and cosine similarity to deliver highly accurate answers to user questions without relying on external APIs.
+
+**Technologies:** Node.js, Express.js, Transformers.js, Semantic Search, Vector Embeddings
+**[GitHub Repository](https://github.com/buhahemal/ai-faq-assistant)** | **[Architecture Diagram](https://www.mermaidchart.com/app/projects/71def21e-5b8e-40d6-8727-3f96cd71c5de/diagrams/bb0eacbe-021d-4366-8742-f96bd96c4e1c/version/v0.1/edit)**
+
 ### Cloud Cost Optimization Dashboard
 Built custom AWS cost optimization dashboard using CloudWatch, Lambda, and Cost Explorer APIs to visualize and track cloud spend across services, helping teams identify waste and reduce monthly expenses.
 
 **Technologies:** AWS CloudWatch, Lambda, Cost Explorer APIs, Node.js
+**[Architecture Diagram](https://www.mermaidchart.com/app/projects/71def21e-5b8e-40d6-8727-3f96cd71c5de/diagrams/c67c5219-2c88-4da3-acc2-567c58e7845f/version/v0.1/edit)**
 
 ### Automated Email Validation Tool
 Developed application to automatically validate email addresses using third-party online tools without requiring paid subscription, leveraging request automation and intelligent response parsing for high accuracy.
@@ -83,6 +90,7 @@ Developed application to automatically validate email addresses using third-part
 Implemented real-time chat functionality using WebSocket integration with Socket.io, enabling seamless bi-directional messaging in a lightweight and scalable application environment.
 
 **Technologies:** Node.js, Socket.io, WebSocket, Real-time Communication
+**[Architecture Diagram](https://www.mermaidchart.com/app/projects/71def21e-5b8e-40d6-8727-3f96cd71c5de/diagrams/5c4b6175-ed7a-49f3-af8f-188a5eb7aea7/version/v0.1/edit)**
 
 ## 🎓 Education
 
@@ -115,4 +123,4 @@ Ajeenkya D. Y. Patil University, Pune, India | 2019 - 2022
 
 ---
 
-*Passionate about building scalable, high-performance systems and optimizing infrastructure for maximum efficiency and cost-effectiveness.*
+*Passionate about building scalable, high-performance systems and optimizing infrastructure for maximum efficiency and cost-effectiveness.* 
