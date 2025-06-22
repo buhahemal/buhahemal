@@ -111,7 +111,7 @@ Ajeenkya D. Y. Patil University, Pune, India | 2019 - 2022
 - **Phone:** +91 7359943259
 - **LinkedIn:** [www.linkedin.com/in/hemalbuha/](https://www.linkedin.com/in/hemalbuha/)
 - **GitHub:** [github.com/buhahemal](https://github.com/buhahemal)
-- **Location:** Pune, India
+- **Location:** Bangalore, India
 
 ---
 
